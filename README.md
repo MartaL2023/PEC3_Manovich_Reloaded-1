@@ -34,6 +34,8 @@ La Hibridación de medios que yo he decidido escojer, ha sido un poco peculiar, 
 
 
 ### Valoraciones personales y bibliografía.
+https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+https://dle.rae.es/hibridaci%C3%B3n?m=form
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
