@@ -59,12 +59,19 @@ Es un programa que está muy completo para poder dejar libre la creatividad de c
 
 ### Valoraciones personales y bibliografía.
 [Hibridación - Wikipedia](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
+
 [RAE](https://dle.rae.es/hibridaci%C3%B3n?m=form)
+
 [Imagen logo Daz3D](https://www.google.com/search?q=daz+3d+logo+CC+BY+SA&tbm=isch&ved=2ahUKEwim9Jifsvz-AhWnoScCHXbfCMkQ2-cCegQIABAA&oq=daz+3d+logo+CC+BY+SA&gs_lcp=CgNpbWcQA1DNBljtC2CUEGgAcAB4AIABUYgB3gGSAQEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=tc1kZObFPKfDnsEP9r6jyAw&bih=919&biw=1388#imgrc=3mG6EpJHE-fk0M)
+
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
 [DAZ 3D](https://blog.daz3d.com/)
+
 [DAZ 3D - Wikipedia](https://en.wikipedia.org/wiki/Daz_3D#Daz_Studio)
+
 [Imagen personaje Daz 3D](https://www.google.com/search?q=daz+3d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv2-netPz-AhVIVKQEHan-BoYQ_AUoAXoECAMQAw&biw=1388&bih=919&dpr=1#imgrc=8RmA8cGiwCpxYM)
+
 [Imagen programa Daz 3D](https://www.google.com/search?q=daz+3d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiuyMD3nvz-AhWKsaQKHZkrBEQQ_AUoAXoECAMQAw&biw=1388&bih=919&dpr=1#imgrc=Y3GuOu2v0dnwPM)
 
 ----
