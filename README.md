@@ -6,7 +6,8 @@
 Autor: Marta Lombarte Acevedo
 
 
-Fecha de inicio: 16/05/2023 
+Fecha de inicio: 16/05/2023
+Fecha de finalización: 17/05/2023
 
 
 
@@ -39,7 +40,7 @@ Por otro lado tenemos la sección de filamento en la que nos permite renderizar 
 
 ![Imagen Daz 3D ](https://www.downloadsource.net/image/uploaded/files/DAZ%20Studio.jpg?fit=max&s=899860658415057ee548b03d07890c64)
 
-Una vez sabemos de qué trata el software de DAZ 3D, podemos observar que este software combina varios medios y así esto es lo que nos confirma la Hibridación, como Lev Manovich nos comenta “En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos" (Manovich, 2013). 
+Una vez sabemos de qué trata el software de DAZ 3D, podemos observar que este software combina varios medios y así esto es lo que nos confirma la Hibridación, como Lev Manovich nos comenta “En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos" ***(Manovich, 2013).*** 
 Con esta anterior frase de Lev Manovich, vamos a ver de qué medios que se tratan para que conformen la hibridación del software.
 
 En primer lugar tenemos los medios visuales en los que Daz 3D nos permite realizar mucha variedad de acciones como realizar diseño gráfico o animación y con herramientas de modelado y escultura que nos ofrece el software la posibilidad de poder crear personajes, escenarios y objetos virtuales. 
@@ -54,6 +55,41 @@ Es un programa que está muy completo para poder dejar libre la creatividad de c
 
 ## Re-descubriendo la hibridacion: AR “Virtual try on de Modiface”.
 
+Si eres mujer u hombre que le gusta cuidarse la piel o utilizar distintos productos de cosmética, la AR “Virtual try on” de Modiface ofrece una experiencia en Realidad Aumentada en el que se pueden probar dichos productos de cosmética antes de comprarlos. Alguna vez ha sucedido en que mucha gente ha realizado compras de cosméticos y al llegar a su casa a la hora de probarlos se han encontrado con que el resultado no era el que esperaban y estos no han podido obtener el reembolso del producto ya que ha sido abierto y probado, según la normativa de los cosméticos una vez abiertos y probados los productos no se pueden ir a cambiar o retornar, ya que por salud e higiene está totalmente prohibido retornar estos productos.
+
+![Imagen Logo Modiface](https://www.loreal-finance.com/sites/default/files/styles/hero_banner/public/publication-content/images/Modiface_863x533.jpg?itok=9V6NopJ_)
+
+La tecnología que ofrece esta Realidad Aumentada se creó hace 15 años creada para toda la industria de la belleza, como uñas, pelo, maquillaje así como nuestros diagnósticos de la piel impulsados por IA brindan las mejores capacidades de RA que utilizan casi mil millones de consumidores en todo el mundo. ***(ModiFace - 2022).***
+
+![ModiFace](https://images.squarespace-cdn.com/content/v1/60623c9141eec3535099289c/1624569917141-LOJYFYUI1DTYAI3QLEML/iPhone+12+Pro+Max+%E2%80%93+7.png)
+
+El software de ModiFace se centra en dos específicos medios en los que estos hacen que la hibridación esté presente.
+
+El primer medio que se utiliza es el de visualización en el que este combina la Realidad Aumentada, elementos visuales de una cámara a tiempo real y productos de cosméticos que han sido llevados a la tecnología. Con estos tres puntos lo que nos permite es que los usuarios que utilicen ModiFace puedan probar con la realidad aumentada todos los cosméticos para poder decidir si se lo quieren comprar, ya que la realidad aumentada tiene muy buena precisión.
+
+El segundo medio que utilizan es el medio de interacción en el cual los usuarios pueden interactual con la realidad aumentada y poder cambiar de tonalidades de color, sombras, texturas y efectos en los que pueden  observar los resultados al instante. El medio de interacción ofrece una experiencia mucho más personalizada para el usuario.
+
+En este software de realidad aumentada utilizan API ***(Application Programming Interface)*** una aplicación de programación de interfaces, en lo que este ayuda a obtener información concreta de la estructura facial de cada usuario ya sea con una imagen o utilizando la camara para poder experimentarlo a tiempo real, esto lo que realiza a parte de analizar nuestra estructura facial nos ayuda a que la experiencia sea muchísimo más inmersiva.
+
+ModiFace tiene plataformas asociadas en las que los usuarios pueden hacer uso de este software pero desde las aplicaciones que más suelen utilizar como son:
+
+***Instagram.***
+
+***Facebook.***
+
+***Snapchat***
+
+***Tik Tok.***
+
+***Google.***
+
+***Youtube.***
+
+***WeChat.***
+
+Aparte de pruebas de cosméticos también podemos encontrar pruebas virtuales de uñas, de estilos y tonos de cabello.
+
+Este software si es bien utilizado nos ayuda a poder evitar malgastar dinero con compras erróneas por colores o tonos de cosméticos mal escogidos.
 
 
 
@@ -73,6 +109,10 @@ Es un programa que está muy completo para poder dejar libre la creatividad de c
 [Imagen personaje Daz 3D](https://www.google.com/search?q=daz+3d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv2-netPz-AhVIVKQEHan-BoYQ_AUoAXoECAMQAw&biw=1388&bih=919&dpr=1#imgrc=8RmA8cGiwCpxYM)
 
 [Imagen programa Daz 3D](https://www.google.com/search?q=daz+3d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiuyMD3nvz-AhWKsaQKHZkrBEQQ_AUoAXoECAMQAw&biw=1388&bih=919&dpr=1#imgrc=Y3GuOu2v0dnwPM)
+
+[Logo Modiface](https://www.google.com/search?q=ModiFace&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiO6dae0_z-AhViVqQEHXGhD-gQ_AUoAnoECAEQBA&biw=1387&bih=919&dpr=1#imgrc=01ZpWgqMKMqZSM)
+
+[Imagen programa ModiFace](https://www.google.com/search?q=ModiFace+try+on&tbm=isch&ved=2ahUKEwi3usKf0_z-AhU8sCcCHd1cBGcQ2-cCegQIABAA&oq=ModiFace+try+on&gs_lcp=CgNpbWcQAzoHCAAQigUQQzoFCAAQgAQ6BwgAEBgQgARQ9gRY9Q1gxA9oAHAAeACAAW-IAZ0GkgEDNi4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=UfBkZPfNArzgnsEP3bmRuAY&bih=919&biw=1387#imgrc=8dTkFTYr1Lv2UM)
 
 ----
 
