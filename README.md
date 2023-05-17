@@ -24,7 +24,7 @@ La Hibridación de medios que yo he decidido escojer, ha sido un poco peculiar, 
 
 ## Re-descubriendo la hibridacion: DAZ 3D.
 
-
+https://upload.wikimedia.org/wikipedia/en/8/83/Daz_wikipedia.png
 
 
 
